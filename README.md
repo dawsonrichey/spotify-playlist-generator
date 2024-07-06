@@ -28,10 +28,9 @@ Running this file with trigger your browser to open a window to authorize your s
 
 
 
-To Do
--------
-    [ ] provide links and instruction to set up a spotify developer account & app
-    [ ] make sure importEnv.py is not in use before removing from project
-    [ ] fix to do list formatting
+### To Do
+- [x] provide links and instruction to set up a spotify developer account & app
+- [ ] make sure importEnv.py is not in use before removing from project
+- [ ] fix to do list formatting
 
 
