@@ -1,5 +1,19 @@
 # spotify-playlist-generator
 
+## Requirements
+[Spotify account](https://www.spotify.com/)
+[spotify developer account](https://developer.spotify.com/)
+[Create a web app](https://developer.spotify.com/dashboard)
+
+
+### Redirect URIs
+http://localhost:8888/callback
+
+### APIs used
+Web API
+Web Playback SDK
+
+
 This project was built using 
 python version 3.11.6
 
