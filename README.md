@@ -10,27 +10,21 @@ source venv/bin/activate
 ```
 
 Make Credentials File
--
-Make a copy of .env.copy and rename it .env then enter your projects information into the provided fields.
+- Make a copy of .env.copy and rename it .env then enter your projects information into the provided fields.
 
 Install
 ```
 pip install python-dotenv spotipy
-<!-- pip install -r requirements.txt -->
 ```
-
 Run Project 
 ```
 python3 spotifyGooglePlaylistGenerator.py
 ```
 Running this file with trigger your browser to open a window to authorize your spotify account.
 
-
-
-
 ### To Do
-- [x] provide links and instruction to set up a spotify developer account & app
-- [ ] make sure importEnv.py is not in use before removing from project
+- [X] Add a readme
+- [ ] Provide links and instruction to set up a spotify developer account & app
+- [X] make sure importEnv.py is not in use before removing from project
 - [ ] fix to do list formatting
-
-
+- [ ] add cron file and instructions
