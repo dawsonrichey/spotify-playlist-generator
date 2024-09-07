@@ -163,3 +163,4 @@ cython_debug/
 .env
 importEnv.py
 .cache-*
+.DS_Store
